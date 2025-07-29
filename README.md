@@ -40,3 +40,8 @@ The Streamlit app makes it easy to interact with the model through a user-friend
   <li>This app is optimized for quick testing and prototyping in Colab.</li>
   <li>To deploy publicly (like on Streamlit Cloud or HuggingFace Spaces), save all files and push this repo to GitHub first.</li>
 </ul>
+
+<h2>The UI(Streamlit):</h2>
+
+<img width="944" height="890" alt="image" src="https://github.com/user-attachments/assets/ce95ae02-bb48-4bb3-8c0c-d013593ca22d" />
+
